@@ -5,7 +5,7 @@ Sometimes I want to reorganize my projects and change up the folder names, but t
 
 Built for using in a UNIX-like system (I used Ubuntu) and for light virtual environemnts in venv (where redownloading the packages doesn't take ages).
 
-# How to use
+## How to use
 Place the script in a directory above your Python project.
 ```
 top_level_dir/
