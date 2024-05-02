@@ -63,4 +63,4 @@ pip3 install -r $NEW_DIR/requirements.txt
 echo $(timestamp) Deactivate venv 
 deactivate
 
-echo Copied Python project from $OLD_DIR to $NEW_DIR
+echo $(timestamp) Copied Python project from $OLD_DIR to $NEW_DIR
