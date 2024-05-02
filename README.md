@@ -1,7 +1,7 @@
 # venv-new-dir
 A Bash script for changing the path of a Python project while preserving its virtual environment and git setup. 
 
-Sometimes I want to reorganize my projects and change up the folder names, but that ends up breaking any venvs if I don't regenerate them. This script automates the task I used to do of renaming or making a new path, copying my project's content into that path, and creating the a new venv folder with all the originally installed packages.
+Sometimes I want to reorganize my projects and change up the folder names, but that ends up breaking any venvs if I don't regenerate them. This script automates the task I used to do of renaming or making folders, copying my project's content over, and creating the a new venv folder with all the originally installed packages.
 
 Built for using in a UNIX-like system (I used Ubuntu) and for light virtual environemnts in venv (where redownloading the packages doesn't take ages).
 
